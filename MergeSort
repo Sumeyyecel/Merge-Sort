@@ -1,0 +1,11 @@
+[16,21,11,8,12,22] __MERGE SORT
+[16,21,11] , [8,12,22]
+[16] [21,11] ,  [8] [12,22]
+[16] [21] [11] ,  [8] [12] [22]
+[8,11,12,16,21,22]
+
+Big_O: O(n. logn) 
+
+
+
+https://app.patika.dev/paths/mu-yazilima-baslangic-patikasi
